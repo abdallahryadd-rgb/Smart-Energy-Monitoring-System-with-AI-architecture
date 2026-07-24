@@ -1,0 +1,10 @@
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\bin\Debug\AI_Power_Agent.exe.config
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\bin\Debug\AI_Power_Agent.exe
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\bin\Debug\AI_Power_Agent.pdb
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\obj\Debug\AI_Power_Agent.csproj.AssemblyReference.cache
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\obj\Debug\AI_Power_Agent.Form1.resources
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\obj\Debug\AI_Power_Agent.Properties.Resources.resources
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\obj\Debug\AI_Power_Agent.csproj.GenerateResource.cache
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\obj\Debug\AI_Power_Agent.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\obj\Debug\AI_Power_Agent.exe
+C:\Users\Mohamed Tarek\source\repos\AI_Power_Agent\AI_Power_Agent\obj\Debug\AI_Power_Agent.pdb
