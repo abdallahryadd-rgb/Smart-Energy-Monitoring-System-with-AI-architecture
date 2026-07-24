@@ -124,7 +124,6 @@ The hardware subsystem is designed around the ESP32 microcontroller, providing a
 
 The ZMPT101B voltage sensor safely steps down the AC mains voltage into a low-level analog signal suitable for the ESP32 ADC. Proper calibration is applied to ensure accurate RMS voltage estimation.
 
-📷 **Figure 2:** *ضع صورة الـ Circuit Diagram الموجودة في التقرير.*
 
 ---
 
