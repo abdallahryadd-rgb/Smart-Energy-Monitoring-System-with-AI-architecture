@@ -425,7 +425,16 @@ The AI engine flags the condition and recommends immediate inspection.
 
 ![Case E](images/dashboard/Screenshot%202026-06-09%20184259.png)
 
----
+### 🚀 MLOps & FastAPI Deployment
+
+#### 1. Docker Image Build Process
+![Docker Build](images/ai/Screenshot%202026-07-25%20184043.png)
+
+#### 2. Container Execution & Uvicorn Server Logs
+![Docker Container Running](images/ai/Screenshot%202026-07-25%20184213.png)
+
+#### 3. FastAPI Interactive API Documentation (Swagger UI)
+![FastAPI Swagger UI](images/ai/Screenshot%202026-07-25%20184308.png)
 
 # 📂 Repository Structure
 
