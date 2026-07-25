@@ -437,8 +437,7 @@ The AI engine flags the condition and recommends immediate inspection.
 ![FastAPI Swagger UI](images/ai/Screenshot%202026-07-25%20184308.png)
 
 #### 4. Automated CI/CD Pipeline (GitHub Actions)
-![GitHub Actions CI](images/ai/github_actions.png)
-
+![GitHub Actions CI](images/ai/actions.png)
 # 📂 Repository Structure
 
 ```text
