@@ -106,7 +106,7 @@ AI Dashboard & Prescriptive Recommendations
 # ⚡ Hardware Implementation
 
 The hardware subsystem is designed around the ESP32 microcontroller, providing a low-cost and scalable solution for monitoring multiple electrical loads simultaneously. Each monitoring point is equipped with dedicated voltage and current sensors, allowing independent measurement of electrical parameters.
-![Dashboard Overview](images/dashboard/Screenshot%202026-07-24%20195115.png)
+![System Architecture](images/dashboard/Screenshot%202026-07-24%20195115.png)
 
 
 ## Hardware Components
@@ -175,7 +175,7 @@ A Windows Forms application developed in **C#** serves as the main user interfac
 - CSV Export
 - AI Communication
 
-![AI Dashboard Detailed View](images/dashboard/Screenshot%202026-06-09%20184259.png)
+![Control Panel](images/dashboard/Screenshot%202026-07-24%20221120.png)
 
 ---
 
@@ -437,7 +437,7 @@ The AI engine flags the condition and recommends immediate inspection.
 ![FastAPI Swagger UI](images/ai/Screenshot%202026-07-25%20184308.png)
 
 #### 4. Automated CI/CD Pipeline (GitHub Actions)
-![GitHub Actions CI](images/ai/actions.png)
+![Actions View](images/dashboard/Screenshot%202026-07-25%20185346.png)
 # 📂 Repository Structure
 
 ```text
