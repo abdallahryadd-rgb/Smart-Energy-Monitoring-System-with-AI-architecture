@@ -106,7 +106,7 @@ AI Dashboard & Prescriptive Recommendations
 # ⚡ Hardware Implementation
 
 The hardware subsystem is designed around the ESP32 microcontroller, providing a low-cost and scalable solution for monitoring multiple electrical loads simultaneously. Each monitoring point is equipped with dedicated voltage and current sensors, allowing independent measurement of electrical parameters.
-![Dashboard Overview](images/dashboard/Screenshot%202026-06-09%20184420.png)
+![Dashboard Overview](images/dashboard/Screenshot%202026-07-24%20195115.png)
 
 
 ## Hardware Components
