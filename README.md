@@ -175,7 +175,7 @@ A Windows Forms application developed in **C#** serves as the main user interfac
 - CSV Export
 - AI Communication
 
-
+![AI Dashboard Detailed View](images/dashboard/Screenshot%202026-07-24%20221120.png)
 
 ---
 
