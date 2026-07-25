@@ -385,7 +385,7 @@ The dashboard dynamically changes according to the detected operating condition.
 
 The system has started successfully and is waiting for incoming measurements.
 
-
+![Case A](images/dashboard/Screenshot%202026-06-09%20184420.png)
 
 ---
 
@@ -395,7 +395,7 @@ Low electrical activity is detected for an extended period.
 
 The AI recommends scheduling preventive maintenance.
 
-
+![Case B](images/dashboard/Screenshot%202026-06-09%20184552.png)
 
 ---
 
@@ -404,7 +404,7 @@ The AI recommends scheduling preventive maintenance.
 Electrical measurements remain within expected operating limits.
 
 The dashboard reports healthy system behavior.
-
+![Case C](images/dashboard/Screenshot%202026-06-09%20184640.png)
 
 
 ---
@@ -415,8 +415,7 @@ The predicted electrical demand exceeds predefined thresholds.
 
 The dashboard immediately recommends load shedding.
 
-
----
+![Case D](images/dashboard/Screenshot%202026-06-10%20111821.png)
 
 ### 🚨 Case Study E — Phase Imbalance
 
@@ -424,7 +423,7 @@ A significant power difference is detected between monitored channels.
 
 The AI engine flags the condition and recommends immediate inspection.
 
-
+![Case E](images/dashboard/Screenshot%202026-06-09%20184259.png)
 
 ---
 
